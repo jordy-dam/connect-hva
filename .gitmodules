@@ -1,0 +1,3 @@
+[submodule "connect-tools"]
+	path = connect-tools
+	url = https://jordy-dam@github.com/jordy-dam/connect-tools.git
